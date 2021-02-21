@@ -9,3 +9,6 @@
     - `ComponentDidUnmount()`
 - Firebase for persisting state
 - `localStorage` for persisting state 
+- PropTypes
+- Animations in React
+- Authentication
