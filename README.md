@@ -6,6 +6,6 @@
 - Component Lifecycle methods
     - `ComponentDidMount()`
     - `ComponentWillUpdate()`
-    - `ComponentDidUnmount()'
+    - `ComponentDidUnmount()`
 - Firebase for persisting state
 - `localStorage` for persisting state 
